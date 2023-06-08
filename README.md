@@ -1,6 +1,6 @@
 # arch-minimal
 Virtual machine file with the minimal install of ArchLinux.
-#IMPORTANT
+# IMPORTANT
   You will need these vmdk files to use the vm: https://drive.google.com/drive/folders/1JzKB_Vg8iyHpBpkg8gz3Dpb2KZVgQwpY?usp=sharing 
 # archinstall settings
   Language: English<br>
