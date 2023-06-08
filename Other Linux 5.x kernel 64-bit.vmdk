@@ -1,0 +1,24 @@
+# Disk DescriptorFile
+version=1
+encoding="windows-1252"
+CID=df3fae59
+parentCID=ffffffff
+createType="twoGbMaxExtentSparse"
+
+# Extent description
+RW 8323072 SPARSE "Other Linux 5.x kernel 64-bit-s001.vmdk"
+RW 8323072 SPARSE "Other Linux 5.x kernel 64-bit-s002.vmdk"
+RW 4325376 SPARSE "Other Linux 5.x kernel 64-bit-s003.vmdk"
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "lsilogic"
+ddb.geometry.cylinders = "1305"
+ddb.geometry.heads = "255"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "b7cba50cdf00cfd41b82f1cadf3fae59"
+ddb.toolsInstallType = "4"
+ddb.toolsVersion = "12352"
+ddb.uuid = "60 00 C2 90 2e d6 8e eb-a1 69 fe 71 4d 52 2d 19"
+ddb.virtualHWVersion = "20"
