@@ -1,7 +1,7 @@
 # arch-minimal
 Virtual machine file with the minimal install of ArchLinux.
 # archinstall settings
-  Language: English /n
+  Language: English<br>
   Keyboard Layout: US
   Mirror Region: Romania
   Locale language: en_US
